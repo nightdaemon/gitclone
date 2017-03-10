@@ -1,2 +1,2 @@
 # gitclone
-add a branch is simple and quick
+add a branch  simple and quick
